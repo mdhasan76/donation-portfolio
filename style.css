@@ -161,7 +161,6 @@ body {
     display: flex;
 }
 
-.see-more .left-img {}
 
 .see-more .right-text {
 
@@ -178,8 +177,6 @@ body {
     font-size: 15px;
     padding-bottom: 51px;
 }
-
-.see-more .right-text {}
 
 .get-update-div {
     background: rgb(236, 208, 195);
